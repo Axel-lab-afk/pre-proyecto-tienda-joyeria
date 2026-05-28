@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Anillo de plata", "precio": 25, "categoria": "Anillos" },
+  { "id": 2, "nombre": "Collar de oro", "precio": 40, "categoria": "Collares" },
+  { "id": 3, "nombre": "Pendiente de plata", "precio": 15, "categoria": "Pendientes" },
+  { "id": 4, "nombre": "Pulsera de oro", "precio": 35, "categoria": "Pulseras" },
+  { "id": 5, "nombre": "Arete de plata", "precio": 20, "categoria": "Aretes" }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana García",
+    "email": "ana@joyeria.com",
+    "puesto": "Fundadora",
+    "foto": "/images/ana.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos López",
+    "email": "carlos@joyeria.com",
+    "puesto": "Diseñador",
+    "foto": "/images/carlos.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "María Torres",
+    "email": "maria@joyeria.com",
+    "puesto": "Ventas",
+    "foto": "/images/maria.jpg"
+  }
+]
